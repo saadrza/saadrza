@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saadrza, a double masters student at Scuola universitaria professionale della Svizzera italiana (SUPSI) and University of Trento (UNITN).
 - 👀 I’m interested in AI/Machine Learning for computer vision, audio and speech recognition, LLMs and optimization problems applied to manufacturing and sustainability.
-- 🌱 I’m currently learning High Performance Computing, Service Oriented Design, Bio-Inspired AI.
+- 🌱 I’m currently working in Glassform as Data Scientist where I develop ML models for optimzing glass production.
 - 💞️ I’m looking to collaborate on research opportunities in academia and industry.
 
